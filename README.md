@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrew Mazour</h1>
 
+- 🔭 I’m currently working on **J.A.R.V.I.S**
+
+- 👯 I’m looking to collaborate on **AI services**
+
+- 📫 How to reach me **andrew.mazour@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
