@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew Mazour</h1>
 
-- 🔭 I’m currently working on **J.A.R.V.I.S**
+- 🔭 I’m currently working on **J.A.R.V.I.S.**
 
 - 👯 I’m looking to collaborate on **AI services**
 
